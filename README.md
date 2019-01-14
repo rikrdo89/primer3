@@ -15,6 +15,8 @@ Installing
 
 `make test`
 
+Or to install this package with conda run:
+`conda install -c bioconda primer3` 
 
 Run Primer3
 -----------
